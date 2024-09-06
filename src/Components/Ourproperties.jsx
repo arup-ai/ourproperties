@@ -11,7 +11,7 @@ const Ourproperties = () => {
         </div>
         <div className=" flex  px-20 py-20">
           <div className="image-container w-[50%] h-[525px] ">
-            <img src={Img} className="   bg-center rounded-md" alt="Properties" />
+            <img src={Img} className="  bg-cover bg-center rounded-md" alt="Properties" />
           </div>
           <div className="card-container pl-1 duration-300 flex-col g-8  h-[100%] w-[50%]  object-cover">
             <div className="card-1-container bg-green-500 hover:bg-white max-w-xl max-h-full mx-auto pl-1 rounded-md">
